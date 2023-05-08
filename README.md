@@ -14,7 +14,7 @@ Antes de poder ejecutar la aplicación, es necesario configurar las variables de
 ### PORT:
 El puerto en el que se ejecutará la aplicación.
 
-### MONGODB_URI:
+### DB_URI:
 La URL de conexión a la base de datos de MongoDB.
 
 ### JWT_SECRET:
